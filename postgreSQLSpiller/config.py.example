@@ -1,0 +1,4 @@
+from_user = 'Myuser1'
+from_password = 'mypassword1'
+to_user = 'myuser2'
+to_password = 'mypassword2'
